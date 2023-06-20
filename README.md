@@ -2,7 +2,7 @@
 <img align="right" alt="Nicholashtml5" width="120" height="120" src = "https://media.tenor.com/yOIS7qn10DoAAAAC/alchmist-pixel.gif" />
 
 ## Sobre mim:
-- 🔭 Futuro dev Front-Ent.
+- 🔭 Futuro dev web.
 - 🌱 Estudando HTML5, CSS, JavaScript e Php
 - 📫 Entre em contato pelo email: nicholas.nkt.antonio@gmail.com
 
