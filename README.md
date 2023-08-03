@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 - 🔭 Futuro dev web.
-- 🌱 Estudando HTML5, CSS, JavaScript e Php
+- 🌱 Projetando em React.js, JavaScript, Html, Css e Php.
 - 📫 Entre em contato pelo email: nicholas.nkt.antonio@gmail.com
 
 ## Detalhes:
