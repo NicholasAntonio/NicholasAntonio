@@ -4,7 +4,7 @@
 ## Sobre mim:
 - 🔭 Futuro dev web.
 - 🌱 Projetando em React.js, JavaScript, Html, Css e Php.
-- 🔎 Utilizando ferramentas de teste de performance como K6 e automações em python.
+- 🔎 Utilizando ferramentas de teste de performance como  cypress, K6 e automações em python.
 - 📫 Entre em contato pelo email: nicholas.nkt.antonio@gmail.com
 
 ## Detalhes:
