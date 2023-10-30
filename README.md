@@ -20,7 +20,7 @@
    <img align='center' alt='Nicholasjs' width='40' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
    <img align="center" alt="Nicholascss" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="Nicholashtml5" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img align="center" alt="Nicholashtml5" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+   <img align="center" alt="Nicholastypescript" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /
  </div>  
           
 ## Contatos: 
