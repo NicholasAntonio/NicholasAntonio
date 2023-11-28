@@ -2,9 +2,9 @@
 <img align="right" alt="Nicholashtml5" width="120" height="120" src = "https://media.tenor.com/yOIS7qn10DoAAAAC/alchmist-pixel.gif" />
 
 ## Sobre mim:
-- 🔭 Futuro dev web.
-- 🌱 Projetando em React.js, JavaScript, Typescritp, Html e Css.
-- 🔎 Utilizando ferramentas de teste automatizados como  cypress, K6 e python.
+- 🔭 Futuro desenvolvedor web.
+- 🌱 Projetando em React.js, JavaScript, Typescript, Html e Css.
+- 🔎 Utilizando ferramentas de teste automatizados como  Cypress, K6 e Locust.
 - 📫 Entre em contato pelo email: nicholas.nkt.antonio@gmail.com
 
 ## Detalhes:
