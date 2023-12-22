@@ -2,7 +2,7 @@
 <img align="right" alt="Nicholashtml5" width="120" height="120" src = "https://media.tenor.com/yOIS7qn10DoAAAAC/alchmist-pixel.gif" />
 
 ## Sobre mim:
-- 🔭 Futuro desenvolvedor web.
+- 🔭 Desenvolvedor web.
 - 🌱 Projetando em C#, React.js, JavaScript, Typescript, Html e Css.
 - 🔎 Utilizando ferramentas de teste automatizados como  Cypress, K6 e Locust.
 - 📫 Entre em contato pelo email: nicholas.nkt.antonio@gmail.com
@@ -21,6 +21,7 @@
    <img align="center" alt="Nicholascss" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="Nicholashtml5" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="Nicholastypescript" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /
+   <img align="center" alt="NicholasCsharp" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /
  </div>  
           
 ## Contatos: 
