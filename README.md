@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 - 🔭 Futuro desenvolvedor web.
-- 🌱 Projetando em React.js, JavaScript, Typescript, Html e Css.
+- 🌱 Projetando em C#, React.js, JavaScript, Typescript, Html e Css.
 - 🔎 Utilizando ferramentas de teste automatizados como  Cypress, K6 e Locust.
 - 📫 Entre em contato pelo email: nicholas.nkt.antonio@gmail.com
 
