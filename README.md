@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 - 🔭 Desenvolvedor web.
-- 🌱 Projetando em C#, React.js, JavaScript, Typescript, Html e Css.
+- 🌱 Desenvolvo soluções em .NET, React.js, Node.js e Laravel.
 - 🔎 Utilizando ferramentas de teste automatizados como  Cypress, K6 e Locust.
 - 📫 Entre em contato pelo email: nicholas.nkt.antonio@gmail.com
 
