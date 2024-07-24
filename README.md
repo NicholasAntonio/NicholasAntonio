@@ -16,12 +16,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAntonio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display:inline_block"><br>
-   <img align="center" alt="Nicholasjs" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="NicholasCsharp" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
    <img align='center' alt='Nicholasjs' width='40' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+   <img align="center" alt="Nicholasjs" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="center" alt="Nicholascss" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="Nicholashtml5" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img align="center" alt="Nicholastypescript" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /
-   <img align="center" alt="NicholasCsharp" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /
+   <img align="center" alt="Nicholastypescript" width="40" height="30" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  </div>  
           
 ## Contatos: 
