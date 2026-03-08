@@ -2,8 +2,8 @@
 <img align="right" alt="Nicholashtml5" width="120" height="120" src = "https://media.tenor.com/yOIS7qn10DoAAAAC/alchmist-pixel.gif" />
 
 ## Sobre mim:
-- 🔭 Desenvolvedor web.
-- 🌱 Desenvolvo soluções em .NET, React.js, Node.js e Laravel.
+- 🔭 Desenvolvedor web e de fluxos de trabalho com IA.
+- 🌱 Desenvolvo soluções em .NET, Angular,  React.js, Node.js e Laravel.
 - 🔎 Utilizando ferramentas de teste automatizados como  Cypress, K6 e Locust.
 - 📫 Entre em contato pelo email: nicholas.nkt.antonio@gmail.com
 
